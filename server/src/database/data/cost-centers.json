@@ -1,0 +1,102 @@
+[
+  {
+    "id": "cc-001",
+    "name": "Engineering",
+    "parentId": null
+  },
+  {
+    "id": "cc-002",
+    "name": "Infrastructure",
+    "parentId": "cc-001"
+  },
+  {
+    "id": "cc-003",
+    "name": "Cloud Operations",
+    "parentId": "cc-002"
+  },
+  {
+    "id": "cc-004",
+    "name": "DevOps",
+    "parentId": "cc-002"
+  },
+  {
+    "id": "cc-005",
+    "name": "Product Engineering",
+    "parentId": "cc-001"
+  },
+  {
+    "id": "cc-006",
+    "name": "Backend",
+    "parentId": "cc-005"
+  },
+  {
+    "id": "cc-007",
+    "name": "Frontend",
+    "parentId": "cc-005"
+  },
+  {
+    "id": "cc-008",
+    "name": "Product",
+    "parentId": null
+  },
+  {
+    "id": "cc-009",
+    "name": "Product Design",
+    "parentId": "cc-008"
+  },
+  {
+    "id": "cc-010",
+    "name": "User Research",
+    "parentId": "cc-009"
+  },
+  {
+    "id": "cc-011",
+    "name": "Visual Design",
+    "parentId": "cc-009"
+  },
+  {
+    "id": "cc-012",
+    "name": "Product Management",
+    "parentId": "cc-008"
+  },
+  {
+    "id": "cc-013",
+    "name": "Sales",
+    "parentId": null
+  },
+  {
+    "id": "cc-014",
+    "name": "Enterprise Sales",
+    "parentId": "cc-013"
+  },
+  {
+    "id": "cc-015",
+    "name": "SMB Sales",
+    "parentId": "cc-013"
+  },
+  {
+    "id": "cc-016",
+    "name": "Marketing",
+    "parentId": null
+  },
+  {
+    "id": "cc-017",
+    "name": "Growth Marketing",
+    "parentId": "cc-016"
+  },
+  {
+    "id": "cc-018",
+    "name": "Brand Marketing",
+    "parentId": "cc-016"
+  },
+  {
+    "id": "cc-019",
+    "name": "Customer Success",
+    "parentId": null
+  },
+  {
+    "id": "cc-020",
+    "name": "Support",
+    "parentId": "cc-019"
+  }
+]

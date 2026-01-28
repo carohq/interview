@@ -1,0 +1,482 @@
+[
+  {
+    "id": "hc-001",
+    "name": "Senior Software Engineer",
+    "status": "in_seat",
+    "costCenterId": "cc-006"
+  },
+  {
+    "id": "hc-002",
+    "name": "Staff Software Engineer",
+    "status": "in_seat",
+    "costCenterId": "cc-006"
+  },
+  {
+    "id": "hc-003",
+    "name": "Software Engineer II",
+    "status": "in_seat",
+    "costCenterId": "cc-007"
+  },
+  {
+    "id": "hc-004",
+    "name": "Senior Frontend Engineer",
+    "status": "pending_start",
+    "costCenterId": "cc-007"
+  },
+  {
+    "id": "hc-005",
+    "name": "DevOps Engineer",
+    "status": "in_seat",
+    "costCenterId": "cc-004"
+  },
+  {
+    "id": "hc-006",
+    "name": "Senior DevOps Engineer",
+    "status": "in_seat",
+    "costCenterId": "cc-004"
+  },
+  {
+    "id": "hc-007",
+    "name": "Cloud Infrastructure Engineer",
+    "status": "in_seat",
+    "costCenterId": "cc-003"
+  },
+  {
+    "id": "hc-008",
+    "name": "Principal Engineer",
+    "status": "pending_term",
+    "costCenterId": "cc-005"
+  },
+  {
+    "id": "hc-009",
+    "name": "Product Designer",
+    "status": "in_seat",
+    "costCenterId": "cc-011"
+  },
+  {
+    "id": "hc-010",
+    "name": "Senior Product Designer",
+    "status": "in_seat",
+    "costCenterId": "cc-011"
+  },
+  {
+    "id": "hc-011",
+    "name": "UX Researcher",
+    "status": "in_seat",
+    "costCenterId": "cc-010"
+  },
+  {
+    "id": "hc-012",
+    "name": "Senior UX Researcher",
+    "status": "pending_start",
+    "costCenterId": "cc-010"
+  },
+  {
+    "id": "hc-013",
+    "name": "Product Manager",
+    "status": "in_seat",
+    "costCenterId": "cc-012"
+  },
+  {
+    "id": "hc-014",
+    "name": "Senior Product Manager",
+    "status": "in_seat",
+    "costCenterId": "cc-012"
+  },
+  {
+    "id": "hc-015",
+    "name": "Group Product Manager",
+    "status": "in_seat",
+    "costCenterId": "cc-012"
+  },
+  {
+    "id": "hc-016",
+    "name": "Enterprise Account Executive",
+    "status": "in_seat",
+    "costCenterId": "cc-014"
+  },
+  {
+    "id": "hc-017",
+    "name": "Senior Account Executive",
+    "status": "in_seat",
+    "costCenterId": "cc-014"
+  },
+  {
+    "id": "hc-018",
+    "name": "Sales Development Representative",
+    "status": "in_seat",
+    "costCenterId": "cc-015"
+  },
+  {
+    "id": "hc-019",
+    "name": "SMB Account Executive",
+    "status": "pending_term",
+    "costCenterId": "cc-015"
+  },
+  {
+    "id": "hc-020",
+    "name": "Growth Marketing Manager",
+    "status": "in_seat",
+    "costCenterId": "cc-017"
+  },
+  {
+    "id": "hc-021",
+    "name": "Senior Growth Marketing Manager",
+    "status": "in_seat",
+    "costCenterId": "cc-017"
+  },
+  {
+    "id": "hc-022",
+    "name": "Brand Marketing Manager",
+    "status": "in_seat",
+    "costCenterId": "cc-018"
+  },
+  {
+    "id": "hc-023",
+    "name": "Customer Success Manager",
+    "status": "in_seat",
+    "costCenterId": "cc-019"
+  },
+  {
+    "id": "hc-024",
+    "name": "Senior Customer Success Manager",
+    "status": "in_seat",
+    "costCenterId": "cc-019"
+  },
+  {
+    "id": "hc-025",
+    "name": "Support Engineer",
+    "status": "in_seat",
+    "costCenterId": "cc-020"
+  },
+  {
+    "id": "hc-026",
+    "name": "Senior Support Engineer",
+    "status": "pending_start",
+    "costCenterId": "cc-020"
+  },
+  {
+    "id": "hc-027",
+    "name": "Engineering Manager",
+    "status": "in_seat",
+    "costCenterId": "cc-005"
+  },
+  {
+    "id": "hc-028",
+    "name": "Director of Engineering",
+    "status": "in_seat",
+    "costCenterId": "cc-001"
+  },
+  {
+    "id": "hc-029",
+    "name": "Software Engineer I",
+    "status": "in_seat",
+    "costCenterId": "cc-006"
+  },
+  {
+    "id": "hc-030",
+    "name": "Software Engineer II",
+    "status": "in_seat",
+    "costCenterId": "cc-006"
+  },
+  {
+    "id": "hc-031",
+    "name": "Senior Backend Engineer",
+    "status": "in_seat",
+    "costCenterId": "cc-006"
+  },
+  {
+    "id": "hc-032",
+    "name": "Staff Backend Engineer",
+    "status": "pending_start",
+    "costCenterId": "cc-006"
+  },
+  {
+    "id": "hc-033",
+    "name": "Junior Frontend Engineer",
+    "status": "in_seat",
+    "costCenterId": "cc-007"
+  },
+  {
+    "id": "hc-034",
+    "name": "Frontend Engineer II",
+    "status": "in_seat",
+    "costCenterId": "cc-007"
+  },
+  {
+    "id": "hc-035",
+    "name": "Staff Frontend Engineer",
+    "status": "in_seat",
+    "costCenterId": "cc-007"
+  },
+  {
+    "id": "hc-036",
+    "name": "Senior Site Reliability Engineer",
+    "status": "in_seat",
+    "costCenterId": "cc-003"
+  },
+  {
+    "id": "hc-037",
+    "name": "Site Reliability Engineer",
+    "status": "in_seat",
+    "costCenterId": "cc-003"
+  },
+  {
+    "id": "hc-038",
+    "name": "Principal Cloud Architect",
+    "status": "in_seat",
+    "costCenterId": "cc-003"
+  },
+  {
+    "id": "hc-039",
+    "name": "Junior DevOps Engineer",
+    "status": "pending_start",
+    "costCenterId": "cc-004"
+  },
+  {
+    "id": "hc-040",
+    "name": "DevOps Engineer II",
+    "status": "in_seat",
+    "costCenterId": "cc-004"
+  },
+  {
+    "id": "hc-041",
+    "name": "Staff DevOps Engineer",
+    "status": "in_seat",
+    "costCenterId": "cc-004"
+  },
+  {
+    "id": "hc-042",
+    "name": "Engineering Manager - Backend",
+    "status": "in_seat",
+    "costCenterId": "cc-006"
+  },
+  {
+    "id": "hc-043",
+    "name": "Engineering Manager - Frontend",
+    "status": "in_seat",
+    "costCenterId": "cc-007"
+  },
+  {
+    "id": "hc-044",
+    "name": "Engineering Manager - Infrastructure",
+    "status": "in_seat",
+    "costCenterId": "cc-002"
+  },
+  {
+    "id": "hc-045",
+    "name": "Senior Engineering Manager",
+    "status": "in_seat",
+    "costCenterId": "cc-005"
+  },
+  {
+    "id": "hc-046",
+    "name": "VP of Engineering",
+    "status": "in_seat",
+    "costCenterId": "cc-001"
+  },
+  {
+    "id": "hc-047",
+    "name": "Junior Product Designer",
+    "status": "in_seat",
+    "costCenterId": "cc-011"
+  },
+  {
+    "id": "hc-048",
+    "name": "Product Designer II",
+    "status": "in_seat",
+    "costCenterId": "cc-011"
+  },
+  {
+    "id": "hc-049",
+    "name": "Staff Product Designer",
+    "status": "pending_term",
+    "costCenterId": "cc-011"
+  },
+  {
+    "id": "hc-050",
+    "name": "Lead Product Designer",
+    "status": "in_seat",
+    "costCenterId": "cc-011"
+  },
+  {
+    "id": "hc-051",
+    "name": "UX Researcher II",
+    "status": "in_seat",
+    "costCenterId": "cc-010"
+  },
+  {
+    "id": "hc-052",
+    "name": "Principal UX Researcher",
+    "status": "in_seat",
+    "costCenterId": "cc-010"
+  },
+  {
+    "id": "hc-053",
+    "name": "Director of Product Design",
+    "status": "in_seat",
+    "costCenterId": "cc-009"
+  },
+  {
+    "id": "hc-054",
+    "name": "Associate Product Manager",
+    "status": "in_seat",
+    "costCenterId": "cc-012"
+  },
+  {
+    "id": "hc-055",
+    "name": "Product Manager II",
+    "status": "in_seat",
+    "costCenterId": "cc-012"
+  },
+  {
+    "id": "hc-056",
+    "name": "Senior Product Manager - Platform",
+    "status": "in_seat",
+    "costCenterId": "cc-012"
+  },
+  {
+    "id": "hc-057",
+    "name": "Principal Product Manager",
+    "status": "in_seat",
+    "costCenterId": "cc-012"
+  },
+  {
+    "id": "hc-058",
+    "name": "Director of Product Management",
+    "status": "in_seat",
+    "costCenterId": "cc-012"
+  },
+  {
+    "id": "hc-059",
+    "name": "VP of Product",
+    "status": "in_seat",
+    "costCenterId": "cc-008"
+  },
+  {
+    "id": "hc-060",
+    "name": "Account Executive",
+    "status": "in_seat",
+    "costCenterId": "cc-014"
+  },
+  {
+    "id": "hc-061",
+    "name": "Senior Enterprise Account Executive",
+    "status": "in_seat",
+    "costCenterId": "cc-014"
+  },
+  {
+    "id": "hc-062",
+    "name": "Strategic Account Executive",
+    "status": "pending_start",
+    "costCenterId": "cc-014"
+  },
+  {
+    "id": "hc-063",
+    "name": "Sales Engineer",
+    "status": "in_seat",
+    "costCenterId": "cc-014"
+  },
+  {
+    "id": "hc-064",
+    "name": "Senior Sales Engineer",
+    "status": "in_seat",
+    "costCenterId": "cc-014"
+  },
+  {
+    "id": "hc-065",
+    "name": "SMB Account Executive II",
+    "status": "in_seat",
+    "costCenterId": "cc-015"
+  },
+  {
+    "id": "hc-066",
+    "name": "Senior SMB Account Executive",
+    "status": "in_seat",
+    "costCenterId": "cc-015"
+  },
+  {
+    "id": "hc-067",
+    "name": "Sales Development Representative II",
+    "status": "in_seat",
+    "costCenterId": "cc-015"
+  },
+  {
+    "id": "hc-068",
+    "name": "Senior Sales Development Representative",
+    "status": "pending_term",
+    "costCenterId": "cc-015"
+  },
+  {
+    "id": "hc-069",
+    "name": "Director of Sales",
+    "status": "in_seat",
+    "costCenterId": "cc-013"
+  },
+  {
+    "id": "hc-070",
+    "name": "VP of Sales",
+    "status": "in_seat",
+    "costCenterId": "cc-013"
+  },
+  {
+    "id": "hc-071",
+    "name": "Marketing Analyst",
+    "status": "in_seat",
+    "costCenterId": "cc-017"
+  },
+  {
+    "id": "hc-072",
+    "name": "Performance Marketing Manager",
+    "status": "in_seat",
+    "costCenterId": "cc-017"
+  },
+  {
+    "id": "hc-073",
+    "name": "Content Marketing Manager",
+    "status": "in_seat",
+    "costCenterId": "cc-018"
+  },
+  {
+    "id": "hc-074",
+    "name": "Senior Brand Marketing Manager",
+    "status": "in_seat",
+    "costCenterId": "cc-018"
+  },
+  {
+    "id": "hc-075",
+    "name": "Director of Marketing",
+    "status": "in_seat",
+    "costCenterId": "cc-016"
+  },
+  {
+    "id": "hc-076",
+    "name": "Customer Success Manager II",
+    "status": "in_seat",
+    "costCenterId": "cc-019"
+  },
+  {
+    "id": "hc-077",
+    "name": "Enterprise Customer Success Manager",
+    "status": "in_seat",
+    "costCenterId": "cc-019"
+  },
+  {
+    "id": "hc-078",
+    "name": "Director of Customer Success",
+    "status": "in_seat",
+    "costCenterId": "cc-019"
+  },
+  {
+    "id": "hc-079",
+    "name": "Support Engineer II",
+    "status": "in_seat",
+    "costCenterId": "cc-020"
+  },
+  {
+    "id": "hc-080",
+    "name": "Lead Support Engineer",
+    "status": "pending_start",
+    "costCenterId": "cc-020"
+  }
+]
