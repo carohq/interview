@@ -21,12 +21,12 @@ export class Database {
   private costCentersData: CostCenter[]
 
   constructor() {
-    this.headcountData = this.loadJSON<Headcount>('data/headcount.json')
-    this.costCentersData = this.loadJSON<CostCenter>('data/cost-centers.json')
+    this.headcountData = this.loadJSON<Headcount>('headcount.json')
+    this.costCentersData = this.loadJSON<CostCenter>('cost-centers.json')
   }
 
   private loadJSON<T>(filename: string): T[] {
-    const filePath = path.join(__dirname, filename)
+    const filePath = path.join(__dirname, '../../data', filename)
     const fileContent = fs.readFileSync(filePath, 'utf-8')
     return JSON.parse(fileContent) as T[]
   }

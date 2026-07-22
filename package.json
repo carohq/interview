@@ -3,7 +3,9 @@
     "version": "1.0.0",
     "scripts": {
         "dev": "concurrently \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
-        "init": "npm install && cd server && npm install && cd ../client && npm install && cd ../"
+        "dev:py": "concurrently \"python3 server/python/main.py\" \"npm run dev --prefix client\"",
+        "init": "npm install && cd server && npm install && cd ../client && npm install && cd ../",
+        "init:py": "npm install && cd client && npm install && cd .."
     },
     "devDependencies": {
         "concurrently": "^7.6.0"
